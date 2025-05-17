@@ -12,7 +12,6 @@
 
 *MENTOR:* NEELA SANTOSH  
 
-
 ## DESCRIPTION:
 
 Image Classification is a fundamental task in computer vision and deep learning. It involves training a model to assign labels to images based on their content. One of the most effective techniques for image classification is using **Convolutional Neural Networks (CNNs)** — a type of deep learning model that automatically extracts hierarchical features from images.
