@@ -64,3 +64,7 @@ By the end of this notebook, we deliver a fully functional model capable of accu
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e41b914c-a646-4e54-9f5e-e49e73ee5729)
+![Image](https://github.com/user-attachments/assets/e4c7808d-782f-4470-a47f-799ea76de30f)
+![Image](https://github.com/user-attachments/assets/29427e48-518c-4e9e-93cd-6da53ba493f7)
+![Image](https://github.com/user-attachments/assets/d954110f-edb9-4b76-80ec-8650f2a7da79)
